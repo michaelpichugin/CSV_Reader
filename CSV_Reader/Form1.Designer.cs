@@ -50,7 +50,7 @@
             // btnSave
             // 
             this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSave.Image = global::CSV_Reader.Properties.Resources.icons8_save_as_16;
+            this.btnSave.Image = global::CSV_Reader.Properties.Resources.save;
             this.btnSave.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSave.Location = new System.Drawing.Point(308, 12);
             this.btnSave.Name = "btnSave";
@@ -63,7 +63,7 @@
             // 
             // btnOpen
             // 
-            this.btnOpen.Image = global::CSV_Reader.Properties.Resources.icons8_open_16;
+            this.btnOpen.Image = global::CSV_Reader.Properties.Resources.open;
             this.btnOpen.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnOpen.Location = new System.Drawing.Point(12, 12);
             this.btnOpen.Name = "btnOpen";
