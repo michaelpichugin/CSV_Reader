@@ -56,7 +56,7 @@ namespace CSV_Reader
                 }
                 catch(Exception ex)
                 {
-                    MessageBox.Show(ex.ToString(), "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(ex.ToString(), "Ошибка.", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
@@ -74,7 +74,7 @@ namespace CSV_Reader
                 }
                 catch(Exception ex)
                 {
-                    MessageBox.Show(ex.ToString(), "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show(ex.ToString(), "Ошибка.", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
         }
